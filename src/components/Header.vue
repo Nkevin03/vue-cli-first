@@ -13,7 +13,10 @@ export default {
 <style>
     header{
         background-color: #404eed;
-        padding: 20px;
+        height: 10vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     header h1{
